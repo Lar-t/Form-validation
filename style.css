@@ -1,0 +1,35 @@
+body{
+  margin: 0;
+  background-color: orangered;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+form{
+  margin-top: 50%;
+  background-color: white;
+  width: 300px;
+  height: 300px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  align-items: center;
+  justify-content: center;
+}
+input{
+  width: 250px;
+  height: 30px;
+  box-shadow: darkgreen;
+}
+button{
+  width: 250px;
+  height: 30px;
+  background-color: green;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
